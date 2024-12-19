@@ -1,6 +1,2 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-
-# Force .c and .h files to be recognized as C
-*.c linguist-language=C
-*.h linguist-language=C
